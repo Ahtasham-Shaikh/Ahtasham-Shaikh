@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahtasham-Shaikh
-- 👀 I’m interested in Cross Platform App Development
-- 🌱 I’m currently learning Dart and Flutter
-- 💞️ I’m looking to collaborate on Flutter Projects
+- 👀 I’m interested in Cross Platform App Development and Front End Web Development
+- 🌱 I’m currently learning NPM and React 
+- 💞️ I’m looking to collaborate on Front End Projects
 - 📫 To reach me mail me on ashaikh2u@gmail.com
 
 <!---
